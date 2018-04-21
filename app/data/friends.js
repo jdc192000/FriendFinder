@@ -1,5 +1,5 @@
 
-var friendsArr = [
+var friendsArray = [
     {
         "name": "Ahmed",
         "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
@@ -15,7 +15,23 @@ var friendsArr = [
             4,
             1
         ]
+    },
+    {
+        "name": "c",
+        "photo": "a",
+        "scores": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ]
     }
 ];
 
-module.exports = friendsArr; 
+module.exports = friendsArray; 
