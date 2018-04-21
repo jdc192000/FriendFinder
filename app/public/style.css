@@ -1,0 +1,28 @@
+
+  
+    body {
+        background-color: #10864b;
+        font-size: 18px;
+        }
+ 
+    header {
+        width: 100%;
+        max-width: 960px;
+        height: 100px;
+        margin: 0 auto;
+        clear: both;
+        }
+ 
+    h1 {
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+        }
+ 
+    main {
+        width: 100%;
+        max-width: 960px;
+        height: auto;
+        margin: 0 auto;
+        }
+ 
